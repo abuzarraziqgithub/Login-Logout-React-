@@ -11,7 +11,7 @@ function Loginpage() {
 
   return (
     <>
-      <h1 style={headingStyle}>You were Logged In ✨</h1>
+      <h1 style={headingStyle}>You Logged In ✨</h1>
     </>
   );
 }
